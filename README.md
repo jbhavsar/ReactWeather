@@ -4,7 +4,6 @@ I did this challenge for an organization. Fortunately, I didn't get the job (yea
 
 ![](Screenshots/screenshot.png)
 
-
 #### Happy Coding!! 😃
 
 
